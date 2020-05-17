@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/28/user/1384041).
-* Наставник: `Неизвестно`.
+* Студент: [Юрий Борин](https://up.htmlacademy.ru/htmlcss/28/user/1384041).
+* Наставник: [Дмитрий Аверин] (https://up.htmlacademy.ru/htmlcss/28/user/1061531).
 
 ---
 
